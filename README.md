@@ -236,7 +236,7 @@ The run takes a few seconds and overwrites `images/bin_1.png` and `images/bin_2.
 The project began as a team project for the **Operations Research** course at **Politecnico di Torino**. The team members were:
 
 - Riccardo Capodoglio
-- Chiara Pasquero
+- Tudor Pascariu
 - Luigi Silinguelli
 - Piero Bedeschi
 
